@@ -1,0 +1,36 @@
+[BAD_TECH]
+What piece of technology do you not feel comfortable using or dislike?
+Did you dislike using it right away, or did your negative feelings develop over time?
+Was this technology easy to learn and start using initially?
+What aspects made it user-friendly for beginners?
+What aspects made it confusing or difficult for beginners?
+Did this technology replace something else that performed the same function? If so, what was it and how do they compare?
+What problem were you trying to solve when you started using this technology?
+Do you feel there are missing features in this technology? What would you add and how should it work?
+Do you think this technology has too many features? Which ones would you remove or make less prominent?
+Despite your overall dislike, are there any elements of this technology that you actually appreciate?
+
+[EMOTIONS]
+How does the prospect of having to use new technology make you feel?
+Why do you think you feel this way about new technology?
+What's the best piece of technology you can remember using? Why did you like it so much?
+How did your favorite technology work, and do you still use it today?
+If your favorite technology no longer exists, why do you think it disappeared?
+What's the worst piece of technology you can remember using? Why did you dislike it so much?
+How did the technology you disliked work, and do you still have to use it?
+If the technology you disliked no longer exists, why do you think it disappeared?
+
+[LEARNING_STYLE]
+Generally, how easy do you find it to learn new technology?
+Why do you think you have this level of ease or difficulty with learning new technology?
+What's your preferred method for learning how to use new technology?
+How do you feel about step-by-step tutorials?
+How do you feel about written instructions?
+How do you feel about illustrated instructions?
+How do you feel about instructional videos?
+How do you feel about live typed chat support?
+How do you feel about online forums for help?
+How do you feel about one-on-one in-person training?
+How do you feel about group in-person training?
+How do you feel about gamified learning with levels and badges?
+Some technology assumes you're a beginner and introduces features gradually, while others assume expertise and let you explore. Which approach do you prefer and why? 

@@ -1,0 +1,5 @@
+Would you like me to add any specific interview-related features to this basic setup? For example:
+A form to input interview questions
+A database to store responses
+Different types of question formats (multiple choice, text, etc.)
+Interview session management
