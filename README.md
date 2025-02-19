@@ -1,22 +1,35 @@
-# Interview Application
+# Interview Script Tool
 
-A web application for conducting structured interviews.
+A Flask-based web application designed to facilitate structured interviews with automatic transcription and markdown export capabilities.
 
-## Setup Instructions
+## Features
 
-1. Create a virtual environment (recommended):
+- 🎯 Structured interview flow with categorized questions
+- 📝 Real-time response recording
+- 📊 Automatic markdown transcript generation
+- 🌐 Web-based interface for easy use
+- 📋 Category-based question organization
+- 🔄 Session management for multiple interviews
+
+## Technology Stack
+
+- Python 3.x
+- Flask (Web Framework)
+- HTML/CSS (Frontend)
+- Markdown (Export Format)
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/trentclat/interview-script-tool.git
+cd interview-script-tool
+```
+
+2. Create and activate a virtual environment:
 ```bash
 python -m venv venv
-```
-
-2. Activate the virtual environment:
-- Windows:
-```bash
-venv\Scripts\activate
-```
-- Mac/Linux:
-```bash
-source venv/bin/activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
@@ -24,14 +37,36 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Run the application:
+## Usage
+
+1. Start the Flask application:
 ```bash
 python app.py
 ```
 
-5. Open your web browser and go to:
-```
-http://127.0.0.1:5000
-```
+2. Open your web browser and navigate to `http://localhost:5000`
 
-The application runs in debug mode, which means it will automatically reload when you make changes to the code. 
+3. Click "Start Interview" to begin a new session
+
+4. Answer questions as they appear
+
+5. At the end of the interview, you can export the transcript in markdown format
+
+## Project Structure
+
+- `app.py` - Main Flask application and interview logic
+- `templates/` - HTML templates for the web interface
+- `interview_questions.txt` - Source file for interview questions
+- `requirements.txt` - Python dependencies
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Author
+
+Created by @trentclat 
